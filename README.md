@@ -1,8 +1,6 @@
-This is a [Wagmi](https://wagmi.sh) + [Vite](https://vitejs.dev) project.
+## How to reproduce: 
 
-# Learn more
-
-To learn more about [Wagmi](https://wagmi.sh) or [Vite](https://vitejs.dev), check out the following resources:
-
-- [Wagmi Documentation](https://wagmi.sh) – learn about Wagmi features and API.
-- [Vite Documentation](https://vitejs.dev/) – learn about Vite features and API.
+1. Clone the project. 
+2. As per usual `npm i && npm run dev` 
+3. On a desktop device with Zerion - signing the typed data and runnign the verication results in success.
+4. On a mobile device the signature verification fails 
